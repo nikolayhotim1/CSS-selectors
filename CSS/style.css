@@ -2,19 +2,19 @@ li {
     padding: 10px;
 }
 
-ul.hot_item li:hover {
+.section_hot li:hover {
     background-color: darkolivegreen; 
 }
 
-ul.realty_item li:hover {
+.section_realty li:hover {
     background-color: cadetblue;
 }
 
-.hot_footer {
+.section_hot .footer {
     color: darkolivegreen;
 }
 
-.realty_footer {
+.section_realty .footer {
     color: cadetblue;
 }
 
@@ -27,10 +27,10 @@ h2 {
     padding: 10px;
 }
 
-div.section_hot h2.hot_header {
+.section_hot h2 {
     background-color: darkolivegreen;
 }
 
-div.section_realty h2.realty_header {
+.section_realty h2 {
     background-color: cadetblue;
 }
