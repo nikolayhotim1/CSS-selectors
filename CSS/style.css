@@ -1,0 +1,36 @@
+li {
+    padding: 10px;
+}
+
+ul.hot_item li:hover {
+    background-color: darkolivegreen; 
+}
+
+ul.realty_item li:hover {
+    background-color: cadetblue;
+}
+
+.hot_footer {
+    color: darkolivegreen;
+}
+
+.realty_footer {
+    color: cadetblue;
+}
+
+li:hover a {
+    color: white;
+}
+
+h2 {
+    color: white;
+    padding: 10px;
+}
+
+div.section_hot h2.hot_header {
+    background-color: darkolivegreen;
+}
+
+div.section_realty h2.realty_header {
+    background-color: cadetblue;
+}
